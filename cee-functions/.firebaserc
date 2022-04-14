@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "test-proj-web-a1f1b",
+    "staging": "test-proj-web-a1f1b"
+  }
+}
